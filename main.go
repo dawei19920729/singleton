@@ -8,4 +8,5 @@ import (
 func main() {
 	singleName := single.Getinstance()
 	fmt.Println(singleName)
+	//fmt.Sprintf("BindRequest error, err: %v", singleName)
 }
