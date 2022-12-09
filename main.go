@@ -31,6 +31,7 @@ func main() {
 	fmt.Println(fmt.Sprintf("BindRequest error, err: %v", a))
 
 	//fmt.Sprintf("BindRequest error, err: %v", singleName)
+	//fmt.Sprintf("BindRequest error test2, err: %v", singleName)
 	//fmt.Sprintf("BindRequest error, err: %v", singleName)
 
 }
