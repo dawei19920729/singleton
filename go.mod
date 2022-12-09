@@ -1,3 +1,3 @@
-module github.com/dawei19920729/singleton
+module singleton
 
 go 1.19
